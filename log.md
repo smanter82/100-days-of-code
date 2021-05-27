@@ -1,30 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1:  Thursday, May 27, 2021 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I did some exercises on FreeCodeCamp (Finished up Basic HTML and HTML5 and started Basic CSS.  I also set up a React App for a fun project for my kids and me.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** FreeCodeCamp: I'm starting at the beginning even though I have already completed the Bootcamp partially as a review.  I am not feeling like it is a waste of time because I'm definitely picking up tidbits that I didn't learn in the class, which can help me in the future.  Setting up React Apps with a server also so that it can talk to the back end gives me a hard time still, but I'm hoping the more I go through it, the easier it will get.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work:** 
+1. Last lesson completed: [Set the id of an Element](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/set-the-id-of-an-element)
+2. GitHub repo to new project: 
 
 
-### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+### Day 2: 
+
+**Today's Progress**: 
+
+**Thoughts** 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)

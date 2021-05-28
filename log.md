@@ -13,10 +13,11 @@
 
 
 
-### Day 2: 
+### Day 2: Friday, May 28, 2021
 
-**Today's Progress**: 
+**Today's Progress**: I did a couple exercises on FreeCodeCamp (CSS).  I practiced some JavaScript Algorithms with a college.  I finished setting up the file structure and router for my family's talent website.  It has the basic pages set up (with nothing on them) and temporary links from the home page to each family member's page and now opens both as a React app from the front end and using the Server.
 
-**Thoughts** 
+**Thoughts** I had a weird occurence when running the project app on the server where it would crash once or twice before deploying.  I'll have to check that out at some point to make sure it doesn't mess anything up when going to production. 
 
 **Link(s) to work**
+GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/marvelous_manters)

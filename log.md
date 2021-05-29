@@ -21,3 +21,21 @@
 
 **Link(s) to work**
 GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/marvelous_manters)
+
+### Day 3: 
+
+**Today's Progress**: Finished Basic CSS on FreeCodeCamp
+
+**Thoughts**: I'm still glad I decided to go through the basic lessons in order because I am picking up some useful tidbits that I hadn't learned before, such as default settings for when fonts or colors aren't available for one reason or another.
+
+**Link(s) to work**
+GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/marvelous_manters)
+
+### Day 2: 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/marvelous_manters)

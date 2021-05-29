@@ -24,9 +24,9 @@ GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/mar
 
 ### Day 3: 
 
-**Today's Progress**: Finished Basic CSS on FreeCodeCamp
+**Today's Progress**: Finished Basic CSS on FreeCodeCamp; Set up Navbar component and tagged it in each of the four pages on marvelous_manters react project
 
-**Thoughts**: I'm still glad I decided to go through the basic lessons in order because I am picking up some useful tidbits that I hadn't learned before, such as default settings for when fonts or colors aren't available for one reason or another.
+**Thoughts**: I'm still glad I decided to go through the basic lessons in order because I am picking up some useful tidbits that I hadn't learned before, such as default settings for when fonts or colors aren't available for one reason or another.  Having kind of a low key day today, but I'm glad I was still able to get a component on the page today.
 
 **Link(s) to work**
 GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/marvelous_manters)

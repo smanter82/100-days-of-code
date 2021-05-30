@@ -22,11 +22,29 @@
 **Link(s) to work**
 GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/marvelous_manters)
 
-### Day 3: 
+### Day 3: Saturday, May 29, 2021
 
 **Today's Progress**: Finished Basic CSS on FreeCodeCamp; Set up Navbar component and tagged it in each of the four pages on marvelous_manters react project
 
 **Thoughts**: I'm still glad I decided to go through the basic lessons in order because I am picking up some useful tidbits that I hadn't learned before, such as default settings for when fonts or colors aren't available for one reason or another.  Having kind of a low key day today, but I'm glad I was still able to get a component on the page today.
+
+**Link(s) to work**
+GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/marvelous_manters)
+
+### Day 4: Sunday, May 30, 2021
+
+**Today's Progress**: 12 Applied Visual Design lessons in FreeCodeCamp.org
+
+**Thoughts**: I didn't get as much done today, but at least I'm sticking with it.  I worked for quite a while on my AWS continuation course earlier, which I'm not supposed to count, but it took longer than expected to get some things working. Some of the CSS strategies I'm seeing in FreeCodeCamp today I hadn't used before, so they'll be helpful. Hopefully I'll make a lot of progress on my project tomorrow when I don't have as much going on as I did today.
+
+**Link(s) to work**
+Last FreeCodeCamp exercise completed: https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/decrease-the-opacity-of-an-element
+
+### Day 5: 
+
+**Today's Progress**: 
+
+**Thoughts** 
 
 **Link(s) to work**
 GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/marvelous_manters)

@@ -40,11 +40,11 @@ GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/mar
 **Link(s) to work**
 Last FreeCodeCamp exercise completed: https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/decrease-the-opacity-of-an-element
 
-### Day 5: 
+### Day 5: Monday, May 31, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Tried to add background images to individual "pages" in my react project.  Got the image files attached and the code in to set them to backgrounds. Didn't get finished working through an issue, so I'm not committing yet.
 
-**Thoughts** 
+**Thoughts**: I'm feeling frustrated because I was able to get background images to change from page to page on my react portfolio but it's not working here for some reason.  I can set a background color to the whole body, but the background images for individual pages are only taking up about the top inch of the page for some reason.  Not sure what I'm doing wrong.  Hoping a break and fresh eyes will help.
 
 **Link(s) to work**
 GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/marvelous_manters)

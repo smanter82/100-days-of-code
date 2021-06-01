@@ -49,6 +49,15 @@ Last FreeCodeCamp exercise completed: https://www.freecodecamp.org/learn/respons
 **Link(s) to work**
 GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/marvelous_manters)
 
+### Day 6: Tuesday, June 1, 2021
+
+**Today's Progress**: 12 more Applied Visual Design lessons on FreeCodeCamp
+
+**Thoughts**: Feeling both behind and successful today.  It's another day when I wish I could have gotten more done in between the other things getting in the way, but I'm also proud that I didn't just skip it today. I'm realizing how little I know about the color wheel and what a big impact that could have on the design of a site.
+
+**Link(s) to work**
+Last FreeCodeCamp exercise completed: https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-color-of-various-elements-to-complementary-colors
+
 ### Day 2: 
 
 **Today's Progress**: 

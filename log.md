@@ -59,6 +59,15 @@ GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/mar
 Last FreeCodeCamp exercise completed: https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-color-of-various-elements-to-complementary-colors
 GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/marvelous_manters)
 
+### Day 7: 
+
+**Today's Progress**: Worked on Algorithms with a colleague.  Focusing on following a pattern of establishing test cases, writing out pseudocode, and then coming up with the methods, etc. to solve the algorithms.
+
+**Thoughts**: I understand the array methods, but I really need to study them so that I can call on them when needed.
+
+**Link(s) to work**: No links today.  We were working off of our class study materials we received during Bootcamp.
+
+
 ### Day 2: 
 
 **Today's Progress**: 

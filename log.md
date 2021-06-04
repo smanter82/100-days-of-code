@@ -68,10 +68,19 @@ GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/mar
 **Link(s) to work**: No links today.  We were working off of our class study materials we received during Bootcamp.
 
 
-### Day 8: Thursday, June 3, 20211
+### Day 8: Thursday, June 3, 2021
 
 **Today's Progress**: Codewars kata, prepping MySQL on new computer
 
 **Thoughts** Family had to trump coding today.  But I got one CodeWars Kata done and downloaded MySQL, which I had forgotten to set up when I got my new MacBook. Again, not what I wanted to get done, but I'm pushing forward.
 
 **Link(s) to work** N/A today
+
+### Day 9: Friday, June 4, 2021
+
+**Today's Progress**: Structured grid on my project and got the background images working properly
+
+**Thoughts** I feel like it's going to be easier moving forward with my project now that there's a structure to it and it's starting to look like a page now.  I'm trying to get a little of the feeling of having a client by having my kids weigh in on design choices, even when I don't always agree with what will look best on their individual pages.
+
+**Link(s) to work**:
+GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/marvelous_manters)

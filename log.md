@@ -59,7 +59,7 @@ GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/mar
 Last FreeCodeCamp exercise completed: https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-color-of-various-elements-to-complementary-colors
 GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/marvelous_manters)
 
-### Day 7: 
+### Day 7: Wednesday, June 2, 2021
 
 **Today's Progress**: Worked on Algorithms with a colleague.  Focusing on following a pattern of establishing test cases, writing out pseudocode, and then coming up with the methods, etc. to solve the algorithms.
 
@@ -68,11 +68,10 @@ GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/mar
 **Link(s) to work**: No links today.  We were working off of our class study materials we received during Bootcamp.
 
 
-### Day 2: 
+### Day 8: Thursday, June 3, 20211
 
-**Today's Progress**: 
+**Today's Progress**: Codewars kata, prepping MySQL on new computer
 
-**Thoughts** 
+**Thoughts** Family had to trump coding today.  But I got one CodeWars Kata done and downloaded MySQL, which I had forgotten to set up when I got my new MacBook. Again, not what I wanted to get done, but I'm pushing forward.
 
-**Link(s) to work**
-GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/marvelous_manters)
+**Link(s) to work** N/A today

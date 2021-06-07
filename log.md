@@ -84,3 +84,13 @@ GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/mar
 
 **Link(s) to work**:
 GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/marvelous_manters)
+
+### Day 10: Friday, June 6, 2021
+
+**Today's Progress**: Tracked down some images for the kids' pages and decided on layout for each.  Added carousel to Maia's page and cards to Duncan's page with images and details included.
+
+**Thoughts** I missed yesterday because I needed the day off for a hanful of reasons, but I'm glad I took the time for me because today, instead of resenting working on my project when I needed the space, I felt refreshed and eager to go today.  I'm glad to see progress on my project.
+
+**Link(s) to work**:
+GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/marvelous_manters)
+

@@ -85,7 +85,7 @@ GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/mar
 **Link(s) to work**:
 GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/marvelous_manters)
 
-### Day 10: Friday, June 6, 2021
+### Day 10: Sunday, June 6, 2021
 
 **Today's Progress**: Tracked down some images for the kids' pages and decided on layout for each.  Added carousel to Maia's page and cards to Duncan's page with images and details included.
 
@@ -94,3 +94,11 @@ GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/mar
 **Link(s) to work**:
 GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/marvelous_manters)
 
+### Day 11: Monday, June 7, 2021
+
+**Today's Progress**: Learned to set up an S3 bucket in AWS and corrected an error in syntax in my project
+
+**Thoughts** I had so much going on today I couldn't remember if I'd made any commits yet today. Then I realized I'd already made them on two separate projects.
+
+**Link(s to work**:
+GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/marvelous_manters)

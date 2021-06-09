@@ -102,3 +102,12 @@ GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/mar
 
 **Link(s to work**:
 GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/marvelous_manters)
+
+### Day 12: Tuesday, June 8, 2021
+
+**Today's Progress**: Got an image and article onto my page of my family project and styled the page a bit.  Used some css tricks I learned today to make it all go more smoothly.
+
+**Thoughts** I didn't want to do it today. I'm exhausted and hot.  But I did it anyway.  Just 10 minutes I said. Now, an hour later, I have a page updated and looking awesome.
+
+**Link(s to work**:
+GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/marvelous_manters)

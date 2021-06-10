@@ -111,3 +111,14 @@ GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/mar
 
 **Link(s to work**:
 GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/marvelous_manters)
+
+### Day 13: Wednesday, June 9, 2021
+
+**Today's Progress**: Styled Duncan's page, fixed container/row issue, and styled Salamander Title/article links
+
+**Thoughts** It's starting to look like a website now, yay.
+
+**Link(s to work**:
+GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/marvelous_manters)
+
+

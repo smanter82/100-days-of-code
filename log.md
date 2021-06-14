@@ -137,10 +137,20 @@ GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/mar
 
 **Link(s) to work**: N/A today
 
-###Day 16: Sunday, June 12, 2021
+###Day 16: Sunday, June 13, 2021
 
 **Today's Progress**:  Freecodecamp exercises completed. Worked on Applied Visual Design in CSS
 
 **Thoughts** I didn't realize how much interesting stuff I could do with shapes in CSS.
 
 **Link(s) to work**:  Ending challenge: https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-a-graphic-using-css
+
+###Day 17: Monday, June 14
+
+**Today's Progress**: Freecodecamp exercises in animations using CSS.
+
+**Thoughts** How did I not know CSS could do this???
+
+**Link(s) to work**: Ending challenge: https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/animate-elements-continually-using-an-infinite-animation-count
+
+

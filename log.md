@@ -139,6 +139,8 @@ GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/mar
 
 ###Day 16: Sunday, June 12, 2021
 
-**Today's Progress**:  Freecodecamp exercises completed.
+**Today's Progress**:  Freecodecamp exercises completed. Worked on Applied Visual Design in CSS
 
-**Link(s) to work**:  Starting challenge:  https://www.freecodecamp.org/learn/responsive-web-design/basic-css/import-a-google-font
+**Thoughts** I didn't realize how much interesting stuff I could do with shapes in CSS.
+
+**Link(s) to work**:  Ending challenge: https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-a-graphic-using-css

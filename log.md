@@ -121,4 +121,24 @@ GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/mar
 **Link(s to work**:
 GitHub repo to new project: [marvelous_manters](https://github.com/smanter82/marvelous_manters)
 
+### Day 14: Thursday, June 10, 2021
 
+**Today's Progress**: Spent a long time trying to figure out the eye ball passord show/hide toggle today.
+
+**Thoughts** My code is kind of a mess, but it's functioning now, and I learned some new things.
+
+**Link(s) to work**: N/A today
+
+###Day 15: Friday, June 11, 2021
+
+**Today's Progress**: Got some css styles dynamically created in React using State.
+
+**Thoughts** I needed this practice.  I'm starting to get better with State but need more work on Props.
+
+**Link(s) to work**: N/A today
+
+###Day 16: Sunday, June 12, 2021
+
+**Today's Progress**:  Freecodecamp exercises completed.
+
+**Link(s) to work**:  Starting challenge:  https://www.freecodecamp.org/learn/responsive-web-design/basic-css/import-a-google-font
